@@ -1,4 +1,4 @@
-# Hi my name is Pascal I'm a Datascientist 🤖, currently working @Swisscom, Institute of Data Analysis and Process design.
+# Hi my name is Pascal I'm a Datascientist 🤖, currently working @Swisscom in Data & AI Consulting
 
 I'm currently working on: 
 - Multimodal causal Transformation models, aka bernsteinflows (Tram DAG)
