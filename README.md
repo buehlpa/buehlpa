@@ -1,7 +1,7 @@
 # Hi my name is Pascal I'm a Datascientist 🤖, currently working @Swisscom in Data & AI Consulting
 
 Repos contain work on: 
-- Multimodal causal Transformation models, aka bernsteinflows (Tram DAG)
+- Multimodal causal Transformation models (Tram DAG), ordinal and continous Transformation models (aka Bernsteinflow)
 - Deeplearning models for Stroke Recovery
 - Unsupervised Anomaly Detection with (not only) Vision Transformers
 - Learning subjects and Tutoring
